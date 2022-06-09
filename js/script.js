@@ -23,7 +23,7 @@ function closeNav() {
 // Slider
 let data = [
     {
-        imageUrl: '../images/SliderImg1.jpg',
+        imageUrl: '../images/slider-img-1.jpg',
     },
     {
         imageUrl: '../images/SliderImg2.jpg',
