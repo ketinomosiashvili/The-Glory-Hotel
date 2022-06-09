@@ -30,6 +30,7 @@ let data = [
     },
     {
         imageUrl: '../images/SliderImg3.jpg',
+
     },
     {
         imageUrl: '../images/SliderImg4.jpg',
@@ -114,9 +115,8 @@ setInterval( () => {
 }, 3000);
 
 setSlide();
+
 // Posts
-
-
 let mainPostWraper = document.getElementById('post-block');
 let content = document.getElementById('post-content');
 let postOverlay = document.getElementById('postOverlay');
